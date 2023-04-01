@@ -1,0 +1,22 @@
+CADASTRA 9
+CADASTRA 1
+CADASTRA 1
+ENTREGA 10 0 Mensagem para 10 com prioridade 0. FIM
+ENTREGA 1 3 Mensagem para 1 com prioridade 3. FIM
+ENTREGA 1 5 Mensagem para 1 com prioridade 5. FIM
+CONSULTA 1
+REMOVE 1
+ENTREGA 1 0 Mensagem para 1 com prioridade 0. FIM
+CADASTRA 1
+ENTREGA 1 0 Mensagem para 1 com prioridade 0. FIM
+CONSULTA 1
+CONSULTA 1
+ENTREGA 1 5 Mensagem para 1 com prioridade 5. FIM
+ENTREGA 1 4 Mensagem para 1 com prioridade 4. FIM
+ENTREGA 1 5 Mensagem para 1 com prioridade 5. FIM
+CONSULTA 1
+CONSULTA 1
+CONSULTA 1
+CONSULTA 9
+REMOVE 9
+REMOVE 9

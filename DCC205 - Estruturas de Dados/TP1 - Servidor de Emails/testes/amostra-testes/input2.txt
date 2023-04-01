@@ -1,0 +1,14 @@
+CONSULTA 1
+CADASTRA 1
+CADASTRA 2
+CADASTRA 3
+CONSULTA 1
+ENTREGA 1 1 Mensagem para 1 com prioridade 1. FIM
+ENTREGA 1 5 Mensagem para 1 com prioridade 5. FIM
+ENTREGA 1 3 Mensagem para 1 com prioridade 3. FIM
+ENTREGA 1 0 Mensagem para 1 com prioridade 0. FIM
+CONSULTA 1
+CONSULTA 1
+CONSULTA 1
+CONSULTA 1
+CONSULTA 1
