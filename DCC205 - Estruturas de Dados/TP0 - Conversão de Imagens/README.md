@@ -1,4 +1,4 @@
-# Trabalho Prático 0
+# Trabalho Prático 0 - Conversão de Imagens
 
 Esse trabalho tem o objetivo de revisar conceitos de programação visto em matérias anteriores e apresentar as bibliotecas de análise de memória.
 
