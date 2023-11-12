@@ -1,0 +1,14 @@
+nVertices(N) nArestas(A)
+cidadeOrigem(X1) cidadeDestino(X2) distancia(D)
+X1 X2 D
+X1 X2 D
+...
+
+// 2 <= N <= 10000
+// 1 <= A <= 100000
+// 1 <= X1
+// X2 <= N
+// X1 != X2
+// 0 < D <= 10000
+// cidade início sempre será 1
+// cidade final sempre será N

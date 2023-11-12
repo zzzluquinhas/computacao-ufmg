@@ -1,0 +1,19 @@
+{
+	"version": "0.2.0",
+	"configurations": [
+	  {
+		"name": "Debug",
+		"type": "cppdbg",
+		"request": "launch",
+		"program": "${workspaceFolder}/tp02",
+		"args": ["<", "test_cases/inputs/test_case0.txt", ">", "saida.out"],
+		"stopAtEntry": false,
+		"cwd": "${workspaceFolder}",
+		"environment": [],
+		"externalConsole": true,
+		"MIMode": "gdb",
+		"miDebuggerPath": "gdb"
+	  }
+	]
+  }
+  
