@@ -7,7 +7,7 @@ Uma certa pessoa sofre de um transtorno peculiar: ela tem fobia a números ímpa
 
 ## Funcionamento do programa
 A primeira linha de uma entrada de teste contém o número de cidades ($2\leq C\leq 10000$) e estradas ($1\leq E\leq 100000$) conectando os pares de cidades, separados por espaço.
-As próximas $E$ linhas contém as conexões entre cidades no formato $C_O C_D D$, onde os valores são números inteiros que representam uma cidade de origem, uma cidade de destino e a distância, respectivamente. Essas variáveis tem as seguintes restrições: $1\leq C_O$, $C_D\leq C$, $C_O\neq C_D$ e $0<D\leq 10000$. Além disso, todas as estradas são de mão dupla, a cidade de origem inicial sempre tem valor 1 e a cidade de destino final sempre tem valor $C$.
+As próximas $E$ linhas contém as conexões entre cidades no formato $C_O\ C_D\ D$, onde os valores são números inteiros que representam uma cidade de origem, uma cidade de destino e a distância, respectivamente. Essas variáveis tem as seguintes restrições: $1\leq C_O$, $C_D\leq C$, $C_O\neq C_D$ e $0\lt D\leq 10000$. Além disso, todas as estradas são de mão dupla, a cidade de origem inicial sempre tem valor 1 e a cidade de destino final sempre tem valor $C$.
 
 A saída do programa consiste de um número inteiro representando o tamanho do caminho mínimo. Se o caminho mínimo não existir, ele imprime -1.
 
