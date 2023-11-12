@@ -15,4 +15,4 @@ A disciplina de Algoritmos 1 aborda os seguintes conceitos:
 
 ## Os Trabalhos
 
-Os trabalhos práticos presentes nessa pasta foram realizados durante a disciplina. Cada trabalho contém o código fonte e o relatório.
+Os três trabalhos práticos presentes nessa pasta foram realizados durante a disciplina. Cada trabalho contém o código fonte e o relatório, além de casos de teste com entrada e saída esperada.
