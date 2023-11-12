@@ -10,7 +10,7 @@ A entrada do programa consiste em um arquivo de texto com o seguinte formato:
 - A segunda linha contém dois inteiros separados por espaço:
 	- O primeiro, $1 \leq N \leq 1000$, representa a quantidade de tamanhos de ligas metálicas disponíveis (ou o número de fábricas);
 	- O segundo, $1 \leq W \leq 1000000$, representa a demanda do cliente em metros.
-- A terceira linha contém uma sequência de inteiros $1 \leq li \leq 1000$ separados por espaço, que representam os tamanhos de ligas disponíveis, em metros.
+- A terceira linha contém uma sequência de inteiros $1 \leq l_i \leq 1000$ separados por espaço, que representam os tamanhos de ligas disponíveis, em metros.
 
 A saída do programa consiste em um arquivo de texto com T linhas, cada uma contendo um inteiro que representa o número mínimo de ligas necessárias para atender à demanda de cada teste.
 
