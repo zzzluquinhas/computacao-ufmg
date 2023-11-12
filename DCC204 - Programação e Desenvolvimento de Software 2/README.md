@@ -1,4 +1,4 @@
-# DCC204 - Programação e Desenvolvimento de Software
+# DCC204 - Programação e Desenvolvimento de Software 2
 
 ## Sobre a disciplina
 
