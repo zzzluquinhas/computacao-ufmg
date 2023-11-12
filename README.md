@@ -7,6 +7,7 @@ Esse repositório tem o propósito de armazenar meus trabalhos e atividades real
 O repositório contém os seguintes trabalhos e atividades de disciplinas:
 
 - **DCC205 - Estruturas de Dados**: implementações de algoritmos de ordenação e estruturas de dados em C++.
+- **DCC207 - Algoritmos 2**: classificador linear 2D com geometria computacional.
 
 ## Como utilizar
 
